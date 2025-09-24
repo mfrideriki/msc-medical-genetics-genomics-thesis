@@ -1,1 +1,1 @@
-# MSc_Metropolitan_College
+# msc-medical-genetics-genomics-thesis
